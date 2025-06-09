@@ -21,7 +21,7 @@ But, as you will understand after reading this article, we cannot keep giving yo
 1. You will lose access to the private projects you created during your bootcamp.
 2. Any project you didn't fork into your personal account will be deleted soon.
 
-But don't worry; this is entirely fixable.
+But don't worry; this is entirely fixable./
 
 ## Why do we delete your projects?
 
